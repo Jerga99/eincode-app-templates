@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 const args = process.argv.slice(2);
 
-let templateName = 'react-plain';
+let templateName = 'react-quickstart';
 let projectName = 'my-app';
 
 const templateIndex = args.indexOf('--template');
